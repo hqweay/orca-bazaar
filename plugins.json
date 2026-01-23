@@ -1,5 +1,6 @@
 {
   "repos": {
+    "davidzhu2018/readwise-sync-plugin": "同步 readwise",
     "Peacefulsea529/orca-web-clipper": "剪藏插件",
     "hqweay/orca-hqweay-go": "A collection of power-user plugins.",
     "Samuelxiaozhuofeng/orca-srs-plugin": "An SRS (Spaced Repetition System) plugin for Orca Note.",
