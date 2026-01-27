@@ -1,5 +1,6 @@
 {
   "repos": {
+    "sethyuan/task-confetti": "在任务块完成时触发一个放烟花的特效",
     "davidzhu2018/readwise-sync-plugin": "同步 readwise",
     "Peacefulsea529/orca-web-clipper": "剪藏插件",
     "hqweay/orca-hqweay-go": "A collection of power-user plugins.",
